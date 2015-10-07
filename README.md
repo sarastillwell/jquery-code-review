@@ -10,7 +10,7 @@ _Pagesthat lists your favorite things!_
 
 ## Setup
 
-* io address
+* http://sarastillwell.github.io/jquery-code-review/
 
 
 
