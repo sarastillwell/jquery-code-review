@@ -5,10 +5,10 @@ $(document).ready(function() {
     var holidayInput = $("input#holiday").val();
     var epicodusInput = $("input#epicodus").val();
 
-    $(".destination").text("destinationInput");
-    $(".restaurant").text("restaurantInput");
-    $(".holiday").text("holidayInput");
-    $(".epicodus").text("epicodusInput");
+    $(".destination").text(destinationInput);
+    $(".restaurant").text(restaurantInput);
+    $(".holiday").text(holidayInput);
+    $(".epicodus").text(epicodusInput);
 
     $("#list").show();
 
