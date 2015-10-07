@@ -2,7 +2,7 @@
 
 ##### jQuery!
 
-#### By _**{Sara Stillwell**_
+#### By _**Sara Stillwell**_
 
 ## Description
 
@@ -10,7 +10,7 @@ _Pagesthat lists your favorite things!_
 
 ## Setup
 
-* io address
+* http://sarastillwell.github.io/jquery-code-review/
 
 
 
