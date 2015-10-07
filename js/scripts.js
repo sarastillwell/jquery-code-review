@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $("#inputlines").sumbit(function() {
+  $("#inputlines").submit(function(event) {
     var destinationInput = $("input#destination").val();
     var restaurantInput = $("input#restaurant").val();
     var holidayInput = $("input#holiday").val();
